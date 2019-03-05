@@ -82,7 +82,7 @@ Redis key-value store, associating session IDs with session stores, which includ
 	FOREIGN KEY (videoID) REFERENCES Video(id),
 	FOREIGN KEY (userID) REFERENCES User(id),
 	timeAdded TIMESTAMP
-);
+    );
 
 
 ## API Reference
