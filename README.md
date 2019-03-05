@@ -3,7 +3,7 @@
 # INFO 441 Final Project Proposal
 
 ## Why & What
-Friends and communities often want to create collaborative playlists for genres, bands, and artists they enjoy listening to. However, services like Spotify are limited in songs and services like YouTube make it difficult collaborate and create playlists with other users. With enLIVEN, music enthusiasts can easily collaborate on playlists that include songs and artists not typically found on streaming services. In addition, people who enjoy using YouTube for music videos and performances can turn their bland playlists into immersive visual media experiences.
+Friends and communities often want to create collaborative playlists for genres, bands, and artists they enjoy listening to. However, services like Spotify are limited in songs and services like YouTube make it difficult collaborate and create playlists with other users. With enLIVEN, music enthusiasts can easily collaborate on playlists of Youtube videos that include songs and artists not typically found on streaming services. In addition, people who enjoy using YouTube for music videos and performances can turn their bland playlists into immersive visual media experiences.
 
 We wanted to create enLIVEN because we felt that it would be a fun and inviting way to bring people who share the same music taste together. Furthermore, music can often be enhanced through visual media, whether it be through music videos or live performances. We felt that this would be a great way to bring visual musical experiences to our audience.
 
