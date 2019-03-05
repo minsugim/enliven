@@ -74,14 +74,14 @@ Redis key-value store, associating session IDs with session stores, which includ
 
 #### Playlists_Videos
     CREATE TABLE IF NOT EXISTS playlists_videos (
-	id INT NOT NULL AUTO_INCREMENT primary key,
-	playlistID INT,
-	videoID INT,
-	userID INT,
-	FOREIGN KEY (playlistID) REFERENCES Playlists(id),
-	FOREIGN KEY (videoID) REFERENCES Video(id),
-	FOREIGN KEY (userID) REFERENCES User(id),
-	timeAdded TIMESTAMP
+        id INT NOT NULL AUTO_INCREMENT primary key,
+        playlistID INT,
+        videoID INT,
+        userID INT,
+        FOREIGN KEY (playlistID) REFERENCES Playlists(id),
+        FOREIGN KEY (videoID) REFERENCES Video(id),
+        FOREIGN KEY (userID) REFERENCES User(id),
+        timeAdded TIMESTAMP
     );
 
 
